@@ -1,4 +1,5 @@
-<img width="1280" height="640" alt="banner" src="https://github.com/user-attachments/assets/2d27dd77-518b-4ac3-9fc6-5077b546b9ed" />
+<img width="1280" height="640" alt="banner" src="https://github.com/user-attachments/assets/6507f00b-e644-4028-9332-7336ce0114ab" />
+
 
 # Low-Speed Open-Circuit Subsonic Wind Tunnel
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)

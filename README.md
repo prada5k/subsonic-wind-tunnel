@@ -1,7 +1,7 @@
 <img width="1280" height="640" alt="banner" src="https://github.com/user-attachments/assets/6507f00b-e644-4028-9332-7336ce0114ab" />
 
 
-# Low-Speed Open-Circuit Subsonic Wind Tunnel
+# Low-Speed Subsonic Open-Circuit  Wind Tunnel
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi%20Pico%20W-red)

@@ -1,4 +1,4 @@
-<img width="1561" height="611" alt="image" src="https://github.com/user-attachments/assets/f31f8a76-bfee-440e-bf1c-71e2b7261642" />
+<img width="1280" height="380" alt="banner" src="https://github.com/user-attachments/assets/2605a015-a4d7-4826-b3be-15fd4c4c55a0" />
 
 
 # Low-Speed Open-Circuit Subsonic Wind Tunnel
